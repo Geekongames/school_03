@@ -4,7 +4,7 @@
 3. To submit a task please send git repo (from your account) or just a zip file of project
 4. You can ask questions in our chat group
 
-##Theory
+## Theory
 - Generics, List<>, GetComponent<> (https://youtu.be/Q1Tv7vj3Txo)
 - System.Actions<T> => callBack (https://www.youtube.com/watch?v=fmGr2OxrM1Q&ab_channel=UnityClassroom)
 - DoTween (https://www.youtube.com/watch?v=FrQlsn9LChg&ab_channel=ExtremeExplaining)
